@@ -2,9 +2,9 @@
 
 My name is Darren Bennett and i live in the north of England, UK.
 
-🔭 I’m currently working on building my own blog and portfolio
+🔭 I’m currently working writing tutorials and guides for my blog.
 
-🌱 I’m currently learning about the [Chia](https://www.chia.net/) blockchain & ecosystem
+🌱 I’m currently learning about the [ScPrime](https://scpri.me/) blockchain & ecosystem
 
 🔠 My Favourite font is [Roboto!](https://fonts.google.com/specimen/Roboto)
 
