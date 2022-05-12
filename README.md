@@ -4,7 +4,9 @@ My name is Darren Bennett and i live in the north of England, UK.
 
 🔭 I’m currently working writing tutorials and guides for my blog.
 
-🌱 I’m currently learning about the [ScPrime](https://scpri.me/) blockchain & ecosystem
+🌱 I’m currently learning about the [ScPrime](https://scpri.me/) Blockchain & Ecosystem & greener Crypto alternatives.
+
+📚 Also trying out the amazing *Nuxt3* and Static Site Generation/Full Stack Development
 
 🔠 My Favourite font is [Roboto!](https://fonts.google.com/specimen/Roboto)
 
