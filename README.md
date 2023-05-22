@@ -4,13 +4,15 @@ My name is Darren Bennett and i live in the north of England, UK.
 
 🔭 I’m currently working writing tutorials and guides for my blog.
 
-📚 Also trying out the amazing *Nuxt3* and Static Site Generation/Full Stack Development
+📚 Also trying out the amazing *Nuxt* and Static Site Generation/Full Stack Development
 
 🔠 My Favourite font is [Roboto!](https://fonts.google.com/specimen/Roboto)
 
 🌐 My Website: [dazeb.uk](https://dazeb.uk) 
 
 🔭 [Github Skyline @DazEB](https://skyline.github.com/dazeb/2021)
+
+🗄️ [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
 
 <!--
 **DazEB2/dazeb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 Time Tracked by [WakaTime](https://wakatime.com)<br />
 [![wakatime](https://wakatime.com/badge/user/d4c53113-78cf-4ffe-86a4-4c446018035f.svg)](https://wakatime.com/@d4c53113-78cf-4ffe-86a4-4c446018035f)
