@@ -12,6 +12,8 @@ My name is Darren Bennett and i live in the UK. I work on writing and Full Stack
 
 🖥 [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
 
+![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
+
 <!--
 **DazEB2/dazeb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
