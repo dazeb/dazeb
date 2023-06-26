@@ -4,7 +4,7 @@ My name is Darren Bennett and i live in the UK. I work on writing and Full Stack
 
 ✍️ I’m currently writing tutorials and guides for my blog. [link](https://dazeb.uk)
 
-![nuxt-logo](https://github.com/dazeb/dazeb/assets/67932890/998a7878-e74c-45e6-8296-400e2d60e25d) Learning the amazing *Nuxt 3* and Static Site Generation/Full Stack Development.
+![nuxt-logo](https://github.com/dazeb/dazeb/assets/67932890/998a7878-e74c-45e6-8296-400e2d60e25d) Learning the amazing **Nuxt 3** and Static Site Generation/Full Stack Development.
 
 🌐 My Website: [dazeb.uk](https://dazeb.uk) 
 
