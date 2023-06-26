@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-My name is Darren Bennett and i live in the north of England, UK.
+My name is Darren Bennett and i live in the UK. I work on writing and Full Stack Dev.
 
-🔭 I’m currently working writing tutorials and guides for my blog.
+✍️ I’m currently writing tutorials and guides for my blog. [link](https://dazeb.uk)
 
-📚 Also trying out the amazing *Nuxt* and Static Site Generation/Full Stack Development
-
-🔠 My Favourite font is [Roboto!](https://fonts.google.com/specimen/Roboto)
+![nuxt-logo](https://github.com/dazeb/dazeb/assets/67932890/998a7878-e74c-45e6-8296-400e2d60e25d) Learning the amazing *Nuxt 3* and Static Site Generation/Full Stack Development.
 
 🌐 My Website: [dazeb.uk](https://dazeb.uk) 
 
 🔭 [Github Skyline @DazEB](https://skyline.github.com/dazeb/2021)
 
-🗄️ [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
+🖥 [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
 
 <!--
 **DazEB2/dazeb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
