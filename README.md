@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Darren Bennett and i live in the UK. I work on writing and Full Stack Dev.
+My name is Darren Bennett and i live in the UK. I work on writing and learning Full Stack Development.
 
 ✍️ I’m currently writing tutorials and guides for my blog. [link](https://dazeb.uk)
 
