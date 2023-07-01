@@ -1,4 +1,4 @@
-![skill-icons-wordpress](https://github.com/dazeb/dazeb/assets/67932890/b9996a7f-64aa-4f01-8943-cb28cb2b565b)![skill-icons-github-dark](https://github.com/dazeb/dazeb/assets/67932890/206dd78f-db55-4e74-a201-07d8456e744a)### Hi there 👋
+### Hi there 👋
 
 My name is Darren Bennett and i live in the UK. I work on writing and learning Full Stack Development.
 
