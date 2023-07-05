@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-My name is Darren Bennett and i live in the UK. I work on writing and learning Full Stack Development.
+My name is Darren Bennett and i live in the UK. I write web apps with [Nuxt](https://nuxt.com) and learning Full Stack Development.
 
-✍️ I’m currently writing tutorials and guides for my blog. [link](https://dazeb.uk)
+### Examples  
+[AtomTheme](https://github.com/dazeb/AtomTheme)  
+
+[Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template)
+
+I have been building websites and applications since 2004.
+
+✍️ I’m currently writing tutorials and guides for my [blog](https://dazeb.uk)
 
 ![nuxt-logo](https://github.com/dazeb/dazeb/assets/67932890/998a7878-e74c-45e6-8296-400e2d60e25d) Learning the amazing **Nuxt 3** and Static Site Generation/Full Stack Development.
 
