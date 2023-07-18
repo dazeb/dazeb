@@ -2,27 +2,21 @@
 
 My name is Darren Bennett and i live in the UK. I write web apps with [Nuxt](https://nuxt.com) and learning Full Stack Development.
 
-### Examples  
-[AtomTheme](https://github.com/dazeb/AtomTheme)  
-
-[Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template)
-
 I have been building websites and applications since 2004.
 
-✍️ I’m currently writing tutorials and guides for my [blog](https://dazeb.uk)
+✍️ I’m writing tutorials and guides for my [blog](https://dazeb.uk) in my spare time.
 
 ![nuxt-logo](https://github.com/dazeb/dazeb/assets/67932890/998a7878-e74c-45e6-8296-400e2d60e25d) Learning the amazing **Nuxt 3** and Static Site Generation/Full Stack Development.
-
-🌐 My Website: [dazeb.uk](https://dazeb.uk) 
 
 🔭 [Github Skyline @DazEB](https://skyline.github.com/dazeb/2021)
 
 🖥 [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
 
-
  ![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
    ![EmojioneGreenHeart](https://github.com/dazeb/dazeb/assets/67932890/a06670cb-3a05-463b-9e81-e8b684bcf63b)
-
+### Examples  
+[AtomTheme](https://github.com/dazeb/AtomTheme)  
+[Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template)
 
 ### Skills
 ![Tailwind](https://github.com/dazeb/dazeb/assets/67932890/d1e31769-c180-493c-a869-7a177b8bb086)
