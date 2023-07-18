@@ -19,41 +19,38 @@ I have been building websites and applications since 2004.
 
 🖥 [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
 
-![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
+
+ ![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
+   ![EmojioneGreenHeart](https://github.com/dazeb/dazeb/assets/67932890/a06670cb-3a05-463b-9e81-e8b684bcf63b)
+
 
 ### Skills
-![tailwind](https://api.iconify.design/skill-icons:tailwindcss-dark.svg)
-![javascript](https://api.iconify.design/logos:javascript.svg)
-![skill-icons-babel](https://github.com/dazeb/dazeb/assets/67932890/ab98373a-50d3-47b6-9e4b-64973a48f12e)
-![skill-icons-html](https://github.com/dazeb/dazeb/assets/67932890/907c0144-e65c-49b9-89d1-b5b4db0ec3e0)
-![skill-icons-illustrator](https://github.com/dazeb/dazeb/assets/67932890/1a57b6cf-06d3-44da-bf0c-6d2c93acdfdf)
-![skill-icons-linux-dark](https://github.com/dazeb/dazeb/assets/67932890/ed50f7cc-4921-4e1c-81d5-ade707233b60)
-![skill-icons-nuxtjs-dark](https://github.com/dazeb/dazeb/assets/67932890/533d2193-5c9a-4987-a6a1-5b4d3c0b3fe6)
-![skill-icons-photoshop](https://github.com/dazeb/dazeb/assets/67932890/d84c6713-fb0f-4224-ab84-2c3be6188d3a)
-![skill-icons-vite-dark](https://github.com/dazeb/dazeb/assets/67932890/09b73c03-ad42-4b02-bdf4-9abb2e749389)
-![skill-icons-cloudflare-dark](https://github.com/dazeb/dazeb/assets/67932890/5e066720-dd63-42b7-89c4-8b39d1209a2c)
-![skill-icons-github-dark](https://github.com/dazeb/dazeb/assets/67932890/cf9ca34b-8348-4269-b47a-b975c80759c1)
-![skill-icons-php-dark](https://github.com/dazeb/dazeb/assets/67932890/192670c0-def2-43ab-97ff-6833b4dc8240)
-![skill-icons-vscode-dark](https://github.com/dazeb/dazeb/assets/67932890/a0baba64-ef2b-474a-a380-aa8763f2ea54)
-![skill-icons-vuejs-dark](https://github.com/dazeb/dazeb/assets/67932890/57dffaea-a4cc-42ea-a5c8-f396d3e00f6e)
-![skill-icons-windicss-dark](https://github.com/dazeb/dazeb/assets/67932890/a4fe9faa-9f7c-488f-bf48-af794ff62187)
-![skill-icons-wordpress](https://github.com/dazeb/dazeb/assets/67932890/3d14853e-9d7d-4419-88e7-82d2fb681f5a)
+![Tailwind](https://github.com/dazeb/dazeb/assets/67932890/d1e31769-c180-493c-a869-7a177b8bb086)
+![VscodeIconsFileTypeJsOfficial](https://github.com/dazeb/dazeb/assets/67932890/ed467c75-189a-4b16-9c0f-15345168861f)
+![VscodeIconsFileTypeHtml](https://github.com/dazeb/dazeb/assets/67932890/cc4ffd39-c85b-4b3b-a6f8-24fa40ceceaa)
+![VscodeIconsFileTypeYaml](https://github.com/dazeb/dazeb/assets/67932890/0bbc1761-27a0-42fd-8775-c831b9c171ed)
+![VscodeIconsFileTypeDocker2](https://github.com/dazeb/dazeb/assets/67932890/6f200b59-5e51-4564-9abe-7cc58c358e61)
+![VscodeIconsFileTypeVite](https://github.com/dazeb/dazeb/assets/67932890/d082770b-f082-4928-8386-b0dd94399a1b)
+![VscodeIconsFileTypeVue](https://github.com/dazeb/dazeb/assets/67932890/d982d2eb-ad35-4d57-ac5a-083e31009500)
+![VscodeIconsFileTypePhp3](https://github.com/dazeb/dazeb/assets/67932890/202089d3-fb34-4c30-bce1-69cb7773accb)
+![VscodeIconsFileTypePgsql](https://github.com/dazeb/dazeb/assets/67932890/86b798b8-d709-400d-9744-fba7ceadc1a7)
+![VscodeIconsFileTypeMysql](https://github.com/dazeb/dazeb/assets/67932890/87a56305-a752-4307-8198-df6db50cc0ee)
+![VscodeIconsFileTypeSqlite](https://github.com/dazeb/dazeb/assets/67932890/9b39950c-9ae9-49fb-8187-89d1379df99d)
+![VscodeIconsFileTypePnpm](https://github.com/dazeb/dazeb/assets/67932890/cc6c5986-70ce-454c-a218-b1cb9ce47e44)
+![VscodeIconsFileTypeNpm](https://github.com/dazeb/dazeb/assets/67932890/0f741910-cff4-4a4a-9ca4-e6a95e52020b)
+![VscodeIconsFileTypeEditorconfig](https://github.com/dazeb/dazeb/assets/67932890/e38bcf01-e9bf-49c9-881b-d4dc3c1ec9c2)
+![VscodeIconsFileTypeMarkdown](https://github.com/dazeb/dazeb/assets/67932890/a348955b-06bc-49f5-8694-a70d626db07c)
+![VscodeIconsFileTypeYarn](https://github.com/dazeb/dazeb/assets/67932890/c7416a6f-20f5-42aa-b74e-4f54017b05b8)
+![VscodeIconsFileTypeAnsible](https://github.com/dazeb/dazeb/assets/67932890/09f119d0-c713-4305-8387-8b6ec654bcef)
+![VscodeIconsFileTypeEslint](https://github.com/dazeb/dazeb/assets/67932890/58e73702-1ca9-4531-87e0-374b030bec79)
+![VscodeIconsFileTypeLightDeno](https://github.com/dazeb/dazeb/assets/67932890/3c7a6d86-cbcb-4d0c-b523-d0c4aebe67ae)
+![VscodeIconsFileTypeScss](https://github.com/dazeb/dazeb/assets/67932890/f9d012d5-48f0-4686-acb4-af9739b799f9)
 
-
-<!--
-**DazEB2/dazeb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software
+![VscodeIconsFileTypeAi](https://github.com/dazeb/dazeb/assets/67932890/77cd2b09-8898-4055-a212-e3a57adc9fc8)
+![VscodeIconsFileTypePhotoshop](https://github.com/dazeb/dazeb/assets/67932890/560796b7-a437-4095-a478-a58d8613c467)
+![VscodeIconsFileTypeGcloud](https://github.com/dazeb/dazeb/assets/67932890/0f2c4be0-381f-4e81-98cf-2a03c894dcf4)
+![VscodeIconsFileTypeVscodeInsiders](https://github.com/dazeb/dazeb/assets/67932890/4d063579-5350-47a8-8096-24cad349925c)
 
 
 Time Tracked by [WakaTime](https://wakatime.com)<br />
