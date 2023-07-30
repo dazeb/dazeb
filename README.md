@@ -50,4 +50,4 @@ I have been building websites and applications since 2004.
 Time Tracked by [WakaTime](https://wakatime.com)<br />
 [![wakatime](https://wakatime.com/badge/user/d4c53113-78cf-4ffe-86a4-4c446018035f.svg)](https://wakatime.com/@d4c53113-78cf-4ffe-86a4-4c446018035f)
 
-<a href="https://app.daily.dev/dazeb"><img src="https://api.daily.dev/devcards/c594b94c497f43c6ad70a78c7b15c0be.png?r=o68" width="400" alt="Darren's Dev Card"/></a>
+
