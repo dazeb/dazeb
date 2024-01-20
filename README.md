@@ -46,6 +46,8 @@ I have been building websites and applications since 2004.
 ![VscodeIconsFileTypeGcloud](https://github.com/dazeb/dazeb/assets/67932890/0f2c4be0-381f-4e81-98cf-2a03c894dcf4)
 ![VscodeIconsFileTypeVscodeInsiders](https://github.com/dazeb/dazeb/assets/67932890/4d063579-5350-47a8-8096-24cad349925c)
 
+<img src="https://myreadme.vercel.app/api/embed/dazeb?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 Time Tracked by [WakaTime](https://wakatime.com)<br />
 [![wakatime](https://wakatime.com/badge/user/d4c53113-78cf-4ffe-86a4-4c446018035f.svg)](https://wakatime.com/@d4c53113-78cf-4ffe-86a4-4c446018035f)
