@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Darren Bennett and i live in the UK. I write web apps with [Nuxt](https://nuxt.com) and learning Full Stack Development.
+### Hi there 🥷
 
 I have been building websites and applications since 2004.
 
@@ -8,12 +6,12 @@ I have been building websites and applications since 2004.
 
 ![nuxt-logo](https://github.com/dazeb/dazeb/assets/67932890/998a7878-e74c-45e6-8296-400e2d60e25d) Learning the amazing **Nuxt 3** and Static Site Generation/Full Stack Development.
 
-🔭 [Github Skyline @DazEB](https://skyline.github.com/dazeb/2021)
+🔭 [Github Skyline @DazEB](https://skyline.github.com/dazeb/2023)
 
 🖥 [Proxmox Helper Script for DietPi repo](https://github.com/dazeb/proxmox-dietpi-installer)
 
- ![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
-   ![EmojioneGreenHeart](https://github.com/dazeb/dazeb/assets/67932890/a06670cb-3a05-463b-9e81-e8b684bcf63b)
+![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)  ![EmojioneGreenHeart](https://github.com/dazeb/dazeb/assets/67932890/a06670cb-3a05-463b-9e81-e8b684bcf63b)  
+
 ### Examples  
 [AtomTheme](https://github.com/dazeb/AtomTheme)  
 [Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template)
@@ -46,8 +44,17 @@ I have been building websites and applications since 2004.
 ![VscodeIconsFileTypeGcloud](https://github.com/dazeb/dazeb/assets/67932890/0f2c4be0-381f-4e81-98cf-2a03c894dcf4)
 ![VscodeIconsFileTypeVscodeInsiders](https://github.com/dazeb/dazeb/assets/67932890/4d063579-5350-47a8-8096-24cad349925c)
 
-<img src="https://myreadme.vercel.app/api/embed/dazeb?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dazeb&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dazeb&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dazeb&show_icons=true" />
+</picture>
 
 Time Tracked by [WakaTime](https://wakatime.com)<br />
 [![wakatime](https://wakatime.com/badge/user/d4c53113-78cf-4ffe-86a4-4c446018035f.svg)](https://wakatime.com/@d4c53113-78cf-4ffe-86a4-4c446018035f)
