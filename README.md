@@ -78,4 +78,3 @@ I'm Darren, a passionate developer with a love for building websites and applica
 ---
 
 ![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
-
