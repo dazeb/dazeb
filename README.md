@@ -72,8 +72,8 @@ I'm Darren, a passionate developer with a love for building websites and applica
 ### 📫 Connect with Me
 
 - 🌐 [Blog](https://dazeb.uk)
-- 🐦 [Twitter](https://twitter.com/your_twitter_handle)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your_linkedin_handle)
+- 🐦 [Twitter](https://twitter.com/dazebdotdev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dazebthedev/)
 
 ---
 
