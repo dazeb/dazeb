@@ -48,7 +48,8 @@ I'm Darren, a passionate developer with a love for building websites and applica
 
 - [AtomTheme](https://github.com/dazeb/AtomTheme): A beautiful theme for Atom.
 - [Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template): A Nuxt 3 template with gradient design.
-- [Proxmox Helper Script for DietPi](https://github.com/dazeb/proxmox-dietpi-installer): A helper script for installing DietPi on Proxmox.
+- [Proxmox Installer Script for DietPi](https://github.com/dazeb/proxmox-dietpi-installer): A helper script for installing DietPi on Proxmox.
+- [Pelican Panel Installer Script](https://github.com/dazeb/pelican-panel-installer): A helper script for installing DietPi on Proxmox.
 
 ---
 
