@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [Your Name], a passionate developer with a love for building websites and applications since 2004. I enjoy sharing my knowledge through tutorials and guides on my [blog](https://dazeb.uk). Currently, I'm diving deep into BASH scripting and automation.
+I'm Darren, a passionate developer with a love for building websites and applications since 2004. I enjoy sharing my knowledge through tutorials and guides on my [blog](https://dazeb.uk). Currently, I'm diving deep into BASH scripting and automation.
 
 ---
 
