@@ -55,6 +55,8 @@ I'm Darren, a passionate developer with a love for building websites and applica
 
 <a href="https://app.daily.dev/dazeb"><img src="https://api.daily.dev/devcards/v2/0N726xrg0To2NlZFdkGz9.png?type=wide&r=4a5" width="652" alt="Darren's Dev Card"/></a>
 
+---
+
 <a href="https://app.daily.dev/dazeb"><img src="./devcard.png" width="652" alt="dazeb's Dev Card"/></a>
 
 ---
