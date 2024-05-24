@@ -57,10 +57,6 @@ I'm Darren, a passionate developer with a love for building websites and applica
 
 ---
 
-<a href="https://app.daily.dev/dazeb"><img src="./devcard.png" width="652" alt="dazeb's Dev Card"/></a>
-
----
-
 ### 📈 GitHub Stats
 
 <picture>
