@@ -12,6 +12,14 @@ I'm Darren, a passionate developer with a love for building websites and applica
 
 ---
 
+### 🌟 Projects & Contributions
+
+- [ShadcnUI Simplicity - Next 14 Starter Template](https://github.com/dazeb/shadcnui-next-14)
+- [AtomTheme](https://github.com/dazeb/AtomTheme): A beautiful theme for Atom.
+- [Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template): A Nuxt 3 template with gradient design.
+- [Proxmox Installer Script for DietPi](https://github.com/dazeb/proxmox-dietpi-installer): A helper script for installing DietPi on Proxmox.
+- [Pelican Panel Installer Script](https://github.com/dazeb/pelican-panel-installer): A helper script for installing DietPi on Proxmox.
+
 ### 🛠 Skills & Technologies
 
 #### Languages & Frameworks
@@ -41,15 +49,6 @@ I'm Darren, a passionate developer with a love for building websites and applica
 ![Adobe Illustrator](https://github.com/dazeb/dazeb/assets/67932890/77cd2b09-8898-4055-a212-e3a57adc9fc8)
 ![Adobe Photoshop](https://github.com/dazeb/dazeb/assets/67932890/560796b7-a437-4095-a478-a58d8613c467)
 ![Google Cloud](https://github.com/dazeb/dazeb/assets/67932890/0f2c4be0-381f-4e81-98cf-2a03c894dcf4)
-
----
-
-### 🌟 Projects & Contributions
-
-- [AtomTheme](https://github.com/dazeb/AtomTheme): A beautiful theme for Atom.
-- [Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template): A Nuxt 3 template with gradient design.
-- [Proxmox Installer Script for DietPi](https://github.com/dazeb/proxmox-dietpi-installer): A helper script for installing DietPi on Proxmox.
-- [Pelican Panel Installer Script](https://github.com/dazeb/pelican-panel-installer): A helper script for installing DietPi on Proxmox.
 
 ---
 
