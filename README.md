@@ -6,7 +6,7 @@ I'm Darren, a passionate developer with a love for building websites and applica
 
 ### 🚀 What I'm Up To
 
-- 🌱 Learning the amazing **Nuxt 3** and exploring Static Site Generation/Full Stack Development.
+- 🌱 Learning the amazing **Nuxt 3** and **NextJS** exploring Full Stack Development.
 - ✍️ Writing tutorials and guides for my [blog](https://dazeb.uk).
 - 🛠 Playing with BASH scripting and automation.
 
