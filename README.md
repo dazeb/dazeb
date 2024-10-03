@@ -1,83 +1,43 @@
-### Hi there! 👋
+![👋 Hi, my name is dazeb](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
-I'm Darren, a passionate developer with a love for building websites and applications since 2004. I enjoy sharing my knowledge through tutorials and guides on my [blog](https://dazeb.uk). Currently, I'm diving deep into BASH scripting and automation.
+![Profile views](https://komarev.com/ghpvc/?username=dazeb&label=Profile%20views&color=0e75b6&style=flat)
 
----
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is dazeb
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-### 🚀 What I'm Up To
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://codepen.io/dazeb" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/dazeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/darrenbennett" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.youtube.com/@dazeb" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.reddit.com/user/hirotoyasutoko" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
-- 🌱 Learning the amazing **Nuxt 3** and **NextJS** exploring Full Stack Development.
-- ✍️ Writing tutorials and guides for my [blog](https://dazeb.uk).
-- 🛠 Playing with BASH scripting and automation.
+ **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
----
+**<h3 align="left">Rapid Fire</h3>**
 
-### 🌟 Projects & Contributions
+- 💼 I'm currently working on: **💻 Developing a new app platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 📂 Portfolio: **<a href="dazeb.dev" target="_blank">dazeb.dev</a>**
+- 📝 Blog: **<a href="Check out my tech tutorial blog! " target="_blank">Check out my tech tutorial blog! </a>**
 
-- [ShadcnUI Simplicity - Next 14 Starter Template](https://github.com/dazeb/shadcnui-next-14)
-- [AtomTheme](https://github.com/dazeb/AtomTheme): A beautiful theme for Atom.
-- [Gradient](https://github.com/dazeb/Nuxt3-Gradient-Template): A Nuxt 3 template with gradient design.
-- [Proxmox Installer Script for DietPi](https://github.com/dazeb/proxmox-dietpi-installer): A helper script for installing DietPi on Proxmox.
-- [Pelican Panel Installer Script](https://github.com/dazeb/pelican-panel-installer): A helper script for installing DietPi on Proxmox.
 
-### 🛠 Skills & Technologies
+ **<h3 align="center">Skills</h3>**
 
-#### Languages & Frameworks
-![JavaScript](https://github.com/dazeb/dazeb/assets/67932890/ed467c75-189a-4b16-9c0f-15345168861f)
-![HTML](https://github.com/dazeb/dazeb/assets/67932890/cc4ffd39-c85b-4b3b-a6f8-24fa40ceceaa)
-![YAML](https://github.com/dazeb/dazeb/assets/67932890/0bbc1761-27a0-42fd-8775-c831b9c171ed)
-![Docker](https://github.com/dazeb/dazeb/assets/67932890/6f200b59-5e51-4564-9abe-7cc58c358e61)
-![Vite](https://github.com/dazeb/dazeb/assets/67932890/d082770b-f082-4928-8386-b0dd94399a1b)
-![Vue](https://github.com/dazeb/dazeb/assets/67932890/d982d2eb-ad35-4d57-ac5a-083e31009500)
-![PHP](https://github.com/dazeb/dazeb/assets/67932890/202089d3-fb34-4c30-bce1-69cb7773accb)
-![PostgreSQL](https://github.com/dazeb/dazeb/assets/67932890/86b798b8-d709-400d-9744-fba7ceadc1a7)
-![MySQL](https://github.com/dazeb/dazeb/assets/67932890/87a56305-a752-4307-8198-df6db50cc0ee)
-![SQLite](https://github.com/dazeb/dazeb/assets/67932890/9b39950c-9ae9-49fb-8187-89d1379df99d)
-![PNPM](https://github.com/dazeb/dazeb/assets/67932890/cc6c5986-70ce-454c-a218-b1cb9ce47e44)
-![NPM](https://github.com/dazeb/dazeb/assets/67932890/0f741910-cff4-4a4a-9ca4-e6a95e52020b)
-![EditorConfig](https://github.com/dazeb/dazeb/assets/67932890/e38bcf01-e9bf-49c9-881b-d4dc3c1ec9c2)
-![Markdown](https://github.com/dazeb/dazeb/assets/67932890/a348955b-06bc-49f5-8694-a70d626db07c)
-![Yarn](https://github.com/dazeb/dazeb/assets/67932890/c7416a6f-20f5-42aa-b74e-4f54017b05b8)
-![Ansible](https://github.com/dazeb/dazeb/assets/67932890/09f119d0-c713-4305-8387-8b6ec654bcef)
-![ESLint](https://github.com/dazeb/dazeb/assets/67932890/58e73702-1ca9-4531-87e0-374b030bec79)
-![Deno](https://github.com/dazeb/dazeb/assets/67932890/3c7a6d86-cbcb-4d0c-b523-d0c4aebe67ae)
-![SCSS](https://github.com/dazeb/dazeb/assets/67932890/f9d012d5-48f0-4686-acb4-af9739b799f9)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" height="28" alt="Nuxt.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 8px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="28" alt="Framer Motion" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Lottie-FF6F00?logo=lottie&logoColor=white" height="28" alt="Lottie" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="28" alt="Material-UI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Bun-FFDF00?logo=bun&logoColor=White" height="28" alt="Bun" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="28" alt="MariaDB" style="margin-right: 8px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="28" alt="Grafana" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" style="margin-right: 8px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28" alt="Ansible" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="28" alt="Playwright" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white" height="28" alt="Puppeteer" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="28" alt="Notepad++" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="28" alt="Adobe Photoshop" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="28" alt="Adobe Illustrator" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 8px"></div>
 
-#### Tools & Platforms
-![Tailwind](https://github.com/dazeb/dazeb/assets/67932890/d1e31769-c180-493c-a869-7a177b8bb086)
-![VSCode](https://github.com/dazeb/dazeb/assets/67932890/4d063579-5350-47a8-8096-24cad349925c)
-![Adobe Illustrator](https://github.com/dazeb/dazeb/assets/67932890/77cd2b09-8898-4055-a212-e3a57adc9fc8)
-![Adobe Photoshop](https://github.com/dazeb/dazeb/assets/67932890/560796b7-a437-4095-a478-a58d8613c467)
-![Google Cloud](https://github.com/dazeb/dazeb/assets/67932890/0f2c4be0-381f-4e81-98cf-2a03c894dcf4)
+ **<h3 align="left">GitHub Stats</h3>**
 
----
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=dazeb&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazeb&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
-<a href="https://app.daily.dev/dazeb"><img src="https://api.daily.dev/devcards/v2/0N726xrg0To2NlZFdkGz9.png?type=wide&r=4a5" width="652" alt="Darren's Dev Card"/></a>
+ **<h3 align="left">Support Me</h3>**
 
----
-
-### 📈 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dazeb&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dazeb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dazeb&show_icons=true" />
-</picture>
-
----
-
-### 📫 Connect with Me
-
-- 🌐 [Blog](https://dazeb.uk)
-- 🐦 [Twitter](https://twitter.com/dazebdotdev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dazebthedev/)
-
----
-
-![full-logo-green-light](https://github.com/dazeb/dazeb/assets/67932890/cf5f8acf-772a-4be1-af00-be5e4f189756)
+<p align="right"><a href="https://ko-fi.com/dazeb" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
