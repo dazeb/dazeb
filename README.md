@@ -19,9 +19,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new app platform using React and Node.js**
+- 💼 I'm currently working on: **💻 Developing a new app platform using NextJS**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 💬 Ask me about: **💡 JavaScript, React, Bash, ShadcnUI, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="dazeb.dev" target="_blank">dazeb.dev</a>**
 - 📝 Blog: **<a href="Check out my tech tutorial blog! " target="_blank">Check out my tech tutorial blog! </a>**
