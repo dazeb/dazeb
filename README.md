@@ -17,11 +17,11 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new app platform using NextJS**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Bash, ShadcnUI, Node.js, MongoDB, and RESTful APIs**
+- 💼 I'm currently working on: **💻 Developing a new app platform using NextJS to provide a saas solution to a PaaS**
+- 🌱 I'm currently learning: **📚 Exploring the world of AI Agents and Agentic Coding**
+- 💬 Ask me about: **💡 JavaScript, TypeScript, React, Bash, ShadcnUI, TailwindCSS, Node.js, MongoDB, Postgresql, Supabase and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="dazeb.dev" target="_blank">dazeb.dev</a>**
+- 📂 Projects: **<a href="dazeb.dev" target="_blank">dazeb.dev</a>** *Out of date*
 - 📝 Blog: **<a href="Check out my tech tutorial blog! " target="_blank">Check out my tech tutorial blog! </a>**
 
 
