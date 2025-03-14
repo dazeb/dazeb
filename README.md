@@ -15,6 +15,8 @@
 
  **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
+ **<h3 align="left">Check out my [MCP Tools](https://github.com/dazeb/dazeb-mcp-tools)</h3>**
+
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new app platform using NextJS to provide a saas solution to a PaaS**
