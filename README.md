@@ -17,6 +17,12 @@
 
  **<h3 align="left">Check out my [MCP Tools](https://github.com/dazeb/dazeb-mcp-tools)</h3>**
 
+ - [Cline MCP Memory Bank](https://github.com/dazeb/MCP-Github-Mapper)  
+ - [Wikipedia Image Downloader MCP Server](https://github.com/dazeb/wikipedia-mcp-image-crawler)  
+ - [React Component Harvester MCP Server](https://github.com/dazeb/mcp-react-components)  
+ - [Markdown Downloader](https://github.com/dazeb/markdown-downloader)  
+ - [MCP GitHub Mapper](https://github.com/dazeb/MCP-Github-Mapper)  
+
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new app platform using NextJS to provide a saas solution to a PaaS**
