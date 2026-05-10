@@ -10,7 +10,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9934--1619-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9934-1619)
 [![Website](https://img.shields.io/badge/dazeb.dev-000?style=flat&logo=aboutdotme&logoColor=white)](https://dazeb.dev)
 
-*North West UK* · `he/him`
+*North West UK* 
 
 ---
 
